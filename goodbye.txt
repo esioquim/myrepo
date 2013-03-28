@@ -1,2 +1,3 @@
 "this is a goodbye file"
 "yo wats up"
+"add email - esioquim@gmail.com"
